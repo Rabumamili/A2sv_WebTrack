@@ -5,4 +5,4 @@ Features
 Add a New Task
 Enter your task in the input field and click the "Add" button to add it to your list.
 If the input field is empty and the "Add" button is clicked, an alert will prompt you to enter a task.
-![Screenshot 1](images/welcoming.png)
+![images/welcoming.png]
