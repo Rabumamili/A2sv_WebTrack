@@ -47,7 +47,7 @@ To get started with the project locally, follow these steps:
 2. **Navigate to the project directory**:
 
    ```bash
-   cd A2sv_WebTrack/my-todo-react-app
+   cd A2sv_WebTrack/Task4
    ```
 
 3. **Install dependencies**:
