@@ -11,9 +11,12 @@ This is a simple contact form built using React, leveraging the `react-hook-form
   ![image](https://github.com/user-attachments/assets/1f78564e-bb38-47c5-a9d0-c387b9734555)
 
  **2.Name and Email format validation.**
+ ![image](https://github.com/user-attachments/assets/e3508bc9-4de0-4f6f-b444-153a4c4029d9) 
+
  
-- Responsive design.
-- Basic UI styling with CSS.
+**3. Submit form**<br>
+![image](https://github.com/user-attachments/assets/d4c84692-3dec-45e6-adb6-cfc953cbb420)
+
 
 ## How to Run the Project
 
@@ -22,10 +25,6 @@ This is a simple contact form built using React, leveraging the `react-hook-form
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
-## Technologies Used
-
-- React
-- react-hook-form
-- CSS
+ 
 
 
