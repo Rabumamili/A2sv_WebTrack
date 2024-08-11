@@ -1,0 +1,98 @@
+body {
+  background-color: #1a2a6c;
+  background-image: url('../public/istockphoto-1359861587-1024x1024.jpg'); /* Update the path accordingly */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Arial', sans-serif;
+}
+h2 {
+  font-size: 36px;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+p {
+  font-size: 24px;
+  color: #bdc3c7;
+  text-align: center;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.contact-form-container {
+  max-width: 400px;
+  padding: 20px;
+  background-color: #2c3e50;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  color: white;
+  border: 2px solid #3498db; /* Example with lighter blue */
+  color: white;
+}
+
+.contact-form-container h2 {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.contact-form-container p {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #bdc3c7;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px solid #34495e;
+  background-color: transparent;
+  color: white;
+  font-size: 16px;
+  outline: none;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: #7f8c8d;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-bottom: 2px solid #3498db;
+}
+
+.form-group .error {
+  color: #e74c3c;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.submit-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #2980b9;
+}
