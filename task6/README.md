@@ -61,4 +61,4 @@ Before starting, ensure you have the following installed:
 - React
 - Tailwind CSS
 - TypeScript
-- react-icons
+ 
