@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  height: 100vh;
+  font-family: 'epilogue', sans-serif;
+  color: #25324B;
+
+}
+
+h1 {
+  font-family: poppins;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
