@@ -32,7 +32,7 @@ Before starting, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/Rabumamili/A2sv_WebTrack.git
-    cd A2sv_WebTrack/Joblisting(Task7)
+    cd A2sv_WebTrack/Joblisting using redux
     ```
 
 2. **Install dependencies:**
