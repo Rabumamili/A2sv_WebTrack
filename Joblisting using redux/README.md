@@ -1,6 +1,6 @@
 # Job Listing Platform
 
-A sleek job listing platform built with **Next.js** and **TypeScript**, styled with **Tailwind CSS**. Users can explore job opportunities and sort them by relevance or alphabetically. State management and data fetching are powered by **Redux** and **RTK Query**.<br>
+This is a simple job listing platform built with **Next.js** and **TypeScript**, styled with **Tailwind CSS**. Users can explore job opportunities and sort them by relevance or alphabetically. State management and data fetching are powered by **Redux** and **RTK Query**.<br>
 ## Screenshoots 
 
 ![screencapture-localhost-3000-2024-08-18-22_13_11](https://github.com/user-attachments/assets/c5ee1c16-1767-4e6d-91bd-27d01232e272)
