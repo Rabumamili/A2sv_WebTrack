@@ -1,4 +1,4 @@
-# Job Listing Platform with Authentication
+# Job Listing Platform 
 
 Welcome to the Job Listing Platform! This application showcases job listings and integrates user authentication with NextAuth.js, state management with Redux, and data fetching with RTK Query. Users can sign in with their Google accounts, explore job opportunities, and manage their session seamlessly.
 
@@ -10,7 +10,8 @@ Welcome to the Job Listing Platform! This application showcases job listings and
 - [Usage](#usage)
 - [Authentication Flow](#authentication-flow)
 - [Job Listing Functionality](#job-listing-functionality)
-- [Directory Structure](#directory-structure)
+- [Screenshots](#screenshots)
+- [Testing](#testing)
 
 ## Features
 
@@ -44,8 +45,8 @@ Welcome to the Job Listing Platform! This application showcases job listings and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rabumamili/auth.git
-   cd auth/FinalTask
+   git clone https://github.com/Rabumamili/A2sv_WebTrack.git
+   cd A2sv_WebTrack/FinalTask
 3. Create a `.env.local` file in the root directory and add your environment variables:
 
    ```bash
@@ -95,3 +96,34 @@ Welcome to the Job Listing Platform! This application showcases job listings and
 
 - **UI Components**: Job listings are presented using the `JobCard` component.
 ## schreenshoots
+### sign up page  
+![signup page](https://github.com/user-attachments/assets/bbc399aa-2a32-41ab-80ee-c265f6c51783)
+
+![signup using google](https://github.com/user-attachments/assets/3928a73b-4690-4336-9d44-c4b5874c7bd2)
+### Email Verification
+
+![verify email](https://github.com/user-attachments/assets/a5faca4d-e4db-449a-91d3-35532385dbce)
+
+### login page 
+   ![welcome1](https://github.com/user-attachments/assets/af7fa443-8d8b-4f18-bde2-2ac4ba8962c1)
+### home page 
+![home page](https://github.com/user-attachments/assets/bd72ba4c-6924-43b2-a56d-f5a4cbfeb60c)
+### Job description
+![jobdescription](https://github.com/user-attachments/assets/4b26aa51-de8b-4367-b538-aa7bb9c2fc57)
+### searching Job
+![searching](https://github.com/user-attachments/assets/3662c1b7-79c3-4cd8-93ba-47040e05668f)
+### Bookmarks
+**bookmarking**
+![bookmark selection](https://github.com/user-attachments/assets/3d9101a6-f3b1-425f-9e2d-f354acc157df)
+ **bookmrked**
+![bookmarked](https://github.com/user-attachments/assets/9b8009d5-ede2-47f0-b4f0-004d7a542f62)
+**removed volunteer software developemnt mentor from bookmarks**
+![unbooked](https://github.com/user-attachments/assets/73ec90e1-a3de-402c-8593-89b140ab1710)
+## Testing
+### unit test with jest for bookmarking functionality
+![testing with jest](https://github.com/user-attachments/assets/d63d1555-d624-40fc-825d-c218a0d4d719)
+
+### E2E test with cypress
+![cypress testing](https://github.com/user-attachments/assets/7d6fa17d-7b8f-469b-af64-3c15e9cb9219)
+
+
