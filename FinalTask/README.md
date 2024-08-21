@@ -95,7 +95,7 @@ Welcome to the Job Listing Platform! This application showcases job listings and
 - **Searching**: Job search functionality is handled via RTK Query.
 
 - **UI Components**: Job listings are presented using the `JobCard` component.
-## schreenshoots
+## Schreenshoots
 ### sign up page  
 ![signup page](https://github.com/user-attachments/assets/bbc399aa-2a32-41ab-80ee-c265f6c51783)
 
