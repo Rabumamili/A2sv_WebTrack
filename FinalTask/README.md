@@ -10,7 +10,7 @@ Welcome to the Job Listing Platform! This application showcases job listings and
 - [Usage](#usage)
 - [Authentication Flow](#authentication-flow)
 - [Job Listing Functionality](#job-listing-functionality)
-- [Screenshots](#screenshots)
+- [Screenshots](#screenshoots)
 - [Testing](#testing)
 
 ## Features
